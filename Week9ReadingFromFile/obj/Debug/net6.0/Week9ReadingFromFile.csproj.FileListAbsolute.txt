@@ -1,0 +1,15 @@
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\bin\Debug\net6.0\Week9ReadingFromFile.exe
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\bin\Debug\net6.0\Week9ReadingFromFile.deps.json
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\bin\Debug\net6.0\Week9ReadingFromFile.runtimeconfig.json
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\bin\Debug\net6.0\Week9ReadingFromFile.dll
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\bin\Debug\net6.0\Week9ReadingFromFile.pdb
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.csproj.AssemblyReference.cache
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.AssemblyInfoInputs.cache
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.AssemblyInfo.cs
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.dll
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\refint\Week9ReadingFromFile.dll
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.pdb
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\Week9ReadingFromFile.genruntimeconfig.cache
+C:\Users\Ekin\source\repos\Week9ReadingFromFile\Week9ReadingFromFile\obj\Debug\net6.0\ref\Week9ReadingFromFile.dll
